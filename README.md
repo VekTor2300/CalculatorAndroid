@@ -1,2 +1,2 @@
 # CalculatorAndroid
-<img src="ГифкаРаботыПрограммы.gif" alt="video demo" height="600"/>
+<img src="ГифкаРаботыПрограммы.gif" alt="video demo" height="1000"/>
